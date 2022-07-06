@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Ex04 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
+		
 		System.out.println("Matriz 3x4");
 		int[][] valores = new int[3][4];
 		for (int i = 0; i < valores.length; i++) {
