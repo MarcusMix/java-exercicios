@@ -1,6 +1,6 @@
-package frutaria;
+package lista_condicionais;
 
-public class Frutarua {
+public class Ex09 {
 
 	public static void main(String[] args) {
 		System.out.println(calculaValor(3.0, 0.0)); // 7.5

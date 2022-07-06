@@ -27,10 +27,10 @@ public class Exercicio9 {
 				System.out.print(matrizA[i][j] + " ");
 			}
 			System.out.println();
-			}
+		}
 		System.out.println("O menor valor da matriz é: " + menor);
 		System.out.println("O maior valor da matriz é: " + maior);
-			teclado.close();
+		teclado.close();
 	    }
 }
 	          

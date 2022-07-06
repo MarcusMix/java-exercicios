@@ -15,10 +15,8 @@ public class Exercicio9mais1 {
 				}
 		Arrays.sort(valores);
 		for(int j = 0; j < valores.length; j++ ) {
-		System.out.println(valores[j] + " ");
+			System.out.println(valores[j] + " ");
 		}
-		
-	
 	}
 }
 
